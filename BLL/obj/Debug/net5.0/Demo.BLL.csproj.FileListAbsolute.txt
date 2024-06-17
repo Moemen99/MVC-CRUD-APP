@@ -1,0 +1,15 @@
+E:\.NetProjects\DemoMVC\BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+E:\.NetProjects\DemoMVC\BLL\bin\Debug\net5.0\Demo.BLL.dll
+E:\.NetProjects\DemoMVC\BLL\bin\Debug\net5.0\Demo.BLL.pdb
+E:\.NetProjects\DemoMVC\BLL\bin\Debug\net5.0\Demo.DAL.dll
+E:\.NetProjects\DemoMVC\BLL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.dll
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\Demo.BLL.pdb
+E:\.NetProjects\DemoMVC\BLL\obj\Debug\net5.0\ref\Demo.BLL.dll

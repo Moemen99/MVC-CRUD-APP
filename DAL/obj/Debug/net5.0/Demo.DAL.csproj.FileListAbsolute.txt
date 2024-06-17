@@ -1,0 +1,12 @@
+E:\.NetProjects\DemoMVC\DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\.NetProjects\DemoMVC\DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\.NetProjects\DemoMVC\DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\.NetProjects\DemoMVC\DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
