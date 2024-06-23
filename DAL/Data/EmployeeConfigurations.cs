@@ -13,6 +13,8 @@ namespace Demo.DAL.Data
         public void Configure(Microsoft.EntityFrameworkCore.Metadata.Builders.EntityTypeBuilder<Employee> builder)
         {
             builder.Property(E => E.Salary).HasColumnType("decimal(18, 2)");
+            builder.Property(E => E.Name).IsRequired(true).HasMaxLength(50);
+
         }
     }
 }

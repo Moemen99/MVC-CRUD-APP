@@ -10,13 +10,8 @@ namespace Demo.DAL.Models
     public class Department : BaseEntity
     {
         
-        
-        [Required(ErrorMessage = "Name is Required!!")]
         public string Name { get; set; }
- 
-        [Required(ErrorMessage = "Code is Required!!")]
         public string Code { get; set; }
-        [Display(Name ="Date Of Creation")] 
         public DateTime DateOfCreation { get; set; }
 
         public ICollection<Employee> Employees = new HashSet<Employee>();

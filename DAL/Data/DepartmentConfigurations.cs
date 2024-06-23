@@ -14,6 +14,8 @@ namespace Demo.DAL.Data
         public void Configure(EntityTypeBuilder<Department> builder)
         {
             builder.Property(D => D.Id).UseIdentityColumn(10,10);
+            builder.Property(D => D.Name).IsRequired(true);
+            builder.Property(D => D.Code).IsRequired(true);
             builder.HasMany(D => D.Employees)
                 .WithOne(E => E.Department)
                 .HasForeignKey(E => E.DepartmentId)

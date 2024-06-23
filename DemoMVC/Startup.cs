@@ -1,6 +1,8 @@
 using Demo.BLL.Interfaces;
 using Demo.BLL.Repositories;
 using Demo.DAL.Data;
+using Demo.PL.ApplicationExtentions;
+using Demo.PL.Helpers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -27,13 +29,15 @@ namespace DemoMVC
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
-            services.AddScoped<IDepartmentRepository, DepartmentRepository>();
-            services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+
+            services.AddAutoMapper(M => M.AddProfile(new MappingProfiles()));
+            services.AddToContainer();
+
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

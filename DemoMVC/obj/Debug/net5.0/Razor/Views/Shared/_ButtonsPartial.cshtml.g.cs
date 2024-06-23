@@ -40,8 +40,22 @@ using Demo.BLL.Interfaces;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "E:\.NetProjects\DemoMVC\DemoMVC\Views\_ViewImports.cshtml"
+using Demo.PL.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 6 "E:\.NetProjects\DemoMVC\DemoMVC\Views\_ViewImports.cshtml"
+using AutoMapper;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a17759875c0cbb1220233ad19086490cd2ab0700", @"/Views/Shared/_ButtonsPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b04dd49aec15568db8af7288c5d1b2dcd493ee08", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"906c1762b434ce4430df1e58e99f0542b922062d", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Shared__ButtonsPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<int>
     #nullable disable
@@ -77,7 +91,7 @@ using Demo.BLL.Interfaces;
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("\r\n<td>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab07005403", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab07005725", async() => {
                 WriteLiteral("\r\n\r\n        <i class=\"fas fa-eye\"></i> Details\r\n    ");
             }
             );
@@ -109,7 +123,7 @@ using Demo.BLL.Interfaces;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n</td>\r\n<td>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab07007710", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab07008032", async() => {
                 WriteLiteral("\r\n\r\n        <i class=\"fas fa-edit\"></i> Update\r\n    ");
             }
             );
@@ -141,7 +155,7 @@ using Demo.BLL.Interfaces;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n</td>\r\n<td>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab070010017", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a17759875c0cbb1220233ad19086490cd2ab070010339", async() => {
                 WriteLiteral("\r\n\r\n        <i class=\"fas fa-trash\"></i> Delete\r\n    ");
             }
             );

@@ -97,7 +97,6 @@ E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Confi
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -123,8 +122,6 @@ E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Loggi
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -223,7 +220,6 @@ E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Reflection.TypeExte
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Runtime.dll
 E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -447,3 +443,9 @@ E:\.NetProjects\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Employee\PartialVie
 E:\.NetProjects\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Employee\PartialViews\DetailsDeleteEmployeePartial.cshtml.g.cs
 E:\.NetProjects\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Department\PartialViews\CreateUpdateDepartmentPartial.cshtml.g.cs
 E:\.NetProjects\DemoMVC\DemoMVC\obj\Debug\net5.0\Razor\Views\Department\PartialViews\DetailsDeleteDepartmentPartial.cshtml.g.cs
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\AutoMapper.dll
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\.NetProjects\DemoMVC\DemoMVC\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
